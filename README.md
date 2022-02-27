@@ -33,7 +33,7 @@ for how to manually install AUR packages.
 ## Manual Installation
 
 ```bash
-$ git clone https://github.com/thytom/dwmbar
+$ git clone https://github.com/xgenos/dwmbar
 $ cd dwmbar
 $ sudo ./install.sh
 ```
